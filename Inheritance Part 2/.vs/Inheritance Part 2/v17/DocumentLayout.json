@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richm\\source\\repos\\Inheritance Part 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6E6AAE-7B2B-4285-863B-49E12272922D}|Inheritance Part 2\\Inheritance Part 2.vcxproj|C:\\Users\\richm\\source\\repos\\Inheritance Part 2\\Inheritance Part 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB6E6AAE-7B2B-4285-863B-49E12272922D}|Inheritance Part 2\\Inheritance Part 2.vcxproj|solutionrelative:Inheritance Part 2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\richm\\source\\repos\\Inheritance Part 2\\Inheritance Part 2\\Source.cpp",
+              "RelativeDocumentMoniker": "Inheritance Part 2\\Source.cpp",
+              "ToolTip": "C:\\Users\\richm\\source\\repos\\Inheritance Part 2\\Inheritance Part 2\\Source.cpp",
+              "RelativeToolTip": "Inheritance Part 2\\Source.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T22:25:23.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

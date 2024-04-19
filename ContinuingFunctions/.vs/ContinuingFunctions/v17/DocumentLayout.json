@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richm\\source\\repos\\ContinuingFunctions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F178F-0341-4CB7-9C20-EB6F61FE56F9}|ContinuingFunctions\\ContinuingFunctions.vcxproj|C:\\Users\\richm\\source\\repos\\ContinuingFunctions\\ContinuingFunctions\\FunctionsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E62F178F-0341-4CB7-9C20-EB6F61FE56F9}|ContinuingFunctions\\ContinuingFunctions.vcxproj|solutionrelative:ContinuingFunctions\\FunctionsMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionsMain.cpp",
+              "DocumentMoniker": "C:\\Users\\richm\\source\\repos\\ContinuingFunctions\\ContinuingFunctions\\FunctionsMain.cpp",
+              "RelativeDocumentMoniker": "ContinuingFunctions\\FunctionsMain.cpp",
+              "ToolTip": "C:\\Users\\richm\\source\\repos\\ContinuingFunctions\\ContinuingFunctions\\FunctionsMain.cpp",
+              "RelativeToolTip": "ContinuingFunctions\\FunctionsMain.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T14:25:48.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

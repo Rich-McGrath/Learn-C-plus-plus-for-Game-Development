@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richm\\source\\repos\\Static_Key_Words_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47CD8012-14C2-40F7-AE4F-1DF47B4AD56C}|Static_Key_Words_2\\Static_Key_Words_2.vcxproj|C:\\Users\\richm\\source\\repos\\Static_Key_Words_2\\Static_Key_Words_2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{47CD8012-14C2-40F7-AE4F-1DF47B4AD56C}|Static_Key_Words_2\\Static_Key_Words_2.vcxproj|solutionrelative:Static_Key_Words_2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\richm\\source\\repos\\Static_Key_Words_2\\Static_Key_Words_2\\Source.cpp",
+              "RelativeDocumentMoniker": "Static_Key_Words_2\\Source.cpp",
+              "ToolTip": "C:\\Users\\richm\\source\\repos\\Static_Key_Words_2\\Static_Key_Words_2\\Source.cpp",
+              "RelativeToolTip": "Static_Key_Words_2\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T14:40:02.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
